@@ -12,5 +12,15 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
+    float: right;
 }
 
+ul {
+    color: white
+}
+
+.nav-container {
+    height: 20vh;
+    background-color: black;
+    width: 100%;
+}
